@@ -1,6 +1,12 @@
 # stats_learning
 Repo with some Statistics examples
 
+## Installation
+
+Python version: `3.10.0`
+
+Packages: `python -m pip install -r requirements.txt`
+
 ## CLT
 
 Script: [clt_multimodal.py](clt_multimodal.py)
